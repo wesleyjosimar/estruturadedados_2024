@@ -16,4 +16,4 @@ int number;
 const int DAYS_IN_WEEK = 7;
 
 //Imprimindo string concatenada
-Console.WindowHeight( $"A semana tem (DAY_IN_WEEK) dias");
+Console.WriteLine($"A semana tem {DAYS_IN_WEEK} dias.");
