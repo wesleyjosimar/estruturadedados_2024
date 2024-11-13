@@ -9,7 +9,7 @@ namespace ArvoreBianria
     {
         public BinaryTreeNode()
         {
-            base.Children = new List<TreeNode<T>>();
+           base.Children = new List<TreeNode<T>>();
         }
     public BinaryTreeNode<T> Left
         {
